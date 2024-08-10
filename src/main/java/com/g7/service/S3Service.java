@@ -29,8 +29,8 @@ public class S3Service {
     private final String bucketName= "g7-s3";
 
     public S3Service() {
-        String accessKey = "AKIATCKAQXV2G47KHEIQ";
-        String secretKey = "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";
+        String accessKey = "";
+        String secretKey = "";
         AWSCredentials credentials = new BasicAWSCredentials(accessKey, secretKey);
         String region = "eu-west-1";
         s3client = AmazonS3Client.builder()
