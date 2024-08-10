@@ -1,6 +1,6 @@
-# Online Internship System Backend
+# Online Internship System Backend / Project for CENG316
 
-This repository contains the backend implementation for the Online Internship System, built using Spring Boot. It provides a RESTful API for managing internships, announcements, and users. The project is designed to handle the data operations required for an online internship portal.
+This repository contains the backend implementation for the Online Internship System for IZTECH students, built using Spring Boot. It provides a RESTful API for managing internships, announcements, and users. The project is designed to handle the data operations required for an online internship portal.
 
 ## Table of Contents
 
@@ -11,8 +11,7 @@ This repository contains the backend implementation for the Online Internship Sy
   - [Companies](#companies)
   - [Internships](#internships)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Project Setup
 
@@ -76,15 +75,4 @@ This repository contains the backend implementation for the Online Internship Sy
 | Hibernate  | ORM framework for database interaction             |
 | MySQL      | Database used for storing data                     |
 
-## Contributing
 
-| How to Contribute                                      |
-|--------------------------------------------------------|
-| Contributions are welcome!                             |
-| Please fork the repository and create a pull request.  |
-
-## License
-
-| License Information                                    |
-|--------------------------------------------------------|
-| This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. |
